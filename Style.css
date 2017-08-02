@@ -1,0 +1,38 @@
+body {
+    background-image: url(Nature.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: navy;
+    text-align:center;
+    text-shadow: 2px 2px 5px black;
+}
+.borderImg {
+    border: 3px dashed yellow;
+}
+/*
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+}
+
+
+#circle {
+    color: darkcyan;
+    font-size: 40px;
+}
+/*
+.container {
+    background: linear-gradient(#00ccff, #b3f0ff);
+    box-shadow: 2px 2px 5px black;
+}
+
+h5 {
+    color: #fff;
+}
+h6 {
+    color: rgb(0, 204, 255);
+}
